@@ -106,7 +106,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 ## 🤝 Connect
 
-*(You can add LinkedIn here later)*
+*(I'll add LinkedIn here later)*
 
 ---
 
