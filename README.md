@@ -62,7 +62,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 ---
 
-*(Add new projects here as you progress)*
+*(Adding new projects here as I progress)*
 
 ---
 
@@ -86,7 +86,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - Working with real data improves understanding of programming concepts
 - Combining tools (Python + Linux + automation) creates powerful solutions
 
-*(Keep updating daily or weekly)*
+*(Updating daily or weekly)*
 
 ---
 
