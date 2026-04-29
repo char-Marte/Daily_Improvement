@@ -73,8 +73,18 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - Created directories and explored the file system
 
 ### Day 2
-- Worked with file manipulation (`cp`, `mv`, `rm`)
-- Practiced organizing files and directories
+- Practiced organizing files and directories in Linux (`cp`, `mv`, `rm`)
+- Continued Python studies focused on automation
+- Built abasic automation script using PyAutoGUI and pandas
+- Extracted and processed sales data from an Excel file
+- Generated automated email reports with calculated metrics
+- Watched technical content in English
+- Praticed French (Duolingo)
+
+#### 💡 Key Takeaways
+- Automation can significantly reduce repetitive manual tasks
+- Working with real data improves understanding of programming concepts
+- Combining tools (Python + Linux + automation) creates powerful solutions
 
 *(Keep updating daily or weekly)*
 
