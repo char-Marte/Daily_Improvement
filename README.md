@@ -86,6 +86,19 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - Working with real data improves understanding of programming concepts
 - Combining tools (Python + Linux + automation) creates powerful solutions
 
+### Day 3
+- Studied Linux permissions and learned how chmod works
+- Continued my Python automation course
+- Improved my script organization
+- Looking foward to improve my English, I watched a series and wrote this daily
+- Learned how 755 permissions work and why they are commonly used
+- I had technical issues with the upload of my repository
+- 
+
+#### 💡 Daily phrase
+- “I’m looking forward to it”
+→ não é literal, significa “estou ansioso por isso”
+
 *(Updating daily or weekly)*
 
 ---
