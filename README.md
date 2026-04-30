@@ -75,11 +75,11 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 ### Day 2
 - Practiced organizing files and directories in Linux (`cp`, `mv`, `rm`)
 - Continued Python studies focused on automation
-- Built abasic automation script using PyAutoGUI and pandas
+- Built a basic automation script using PyAutoGUI and pandas
 - Extracted and processed sales data from an Excel file
 - Generated automated email reports with calculated metrics
 - Watched technical content in English
-- Praticed French (Duolingo)
+- Practiced French (Duolingo)
 
 #### 💡 Key Takeaways
 - Automation can significantly reduce repetitive manual tasks
@@ -88,12 +88,15 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 ### Day 3
 - Studied Linux permissions and learned how chmod works
+  - Created a script file and tested execution permissions
+  - Used chmod +x to make a script executable
+  - Explored different permission levels (755, 777)
+  - Learned how 755 permissions work and why they are commonly used  
 - Continued my Python automation course
 - Improved my script organization
-- Looking foward to improve my English, I watched a series and wrote this daily
-- Learned how 755 permissions work and why they are commonly used
+- I watched a series and wrote this daily to improve my English
 - I had technical issues with the upload of my repository
-- 
+  
 
 #### 💡 Daily phrase
 - “I’m looking forward to it”
