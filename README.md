@@ -98,9 +98,33 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - I had technical issues with the upload of my repository
   
 
-#### 💡 Daily phrase
+#### 💬 Daily phrase
 - “I’m looking forward to it”
 → não é literal, significa “estou ansioso por isso”
+
+### Day 4
+- After a few days off
+- Had limited study time but maintained consistency and progress
+- Completed a CCNA 1 Certificate exam during work hours
+- Attended a university class to stay consistent with academic responsibilities
+- Continued improving my Python automation script:
+  - Refactored code structure using functions
+  - Centralized configuration variables
+  - Replaced fixed delays with configurable wait times (SHORT_WAIT , LONG_WAIT)
+  - Added validation checks for data integrity
+  - Implemented error handling for file reading and automation steps
+- Worked on debugging and improving the reliability of the script
+- Practiced English through listening (music and series) and writing this daily log
+
+#### 💡 Key Takeaways
+- Structuring code properly makes it easier to debug and scale
+- Small improvements (like configurable waits) make scripts more adaptable
+- Real-world problems (like automation reliability) teach more than theory itself
+- Consistency matters more than having a "perfect" study day
+
+#### 💬 Daily phrase
+- "Done is better than perfect"
+→ Feito é melhor que perfeito (Principalmente quando a gente não está bem)
 
 *(Updating daily or weekly)*
 
