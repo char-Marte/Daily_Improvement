@@ -9,7 +9,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 - 🎓 Computer Science student (graduating in 2028)
 - 💼 IT Manager (military environment)
-- 🌐 Background in networking (CCNA)
+- 🌐 Background in networking (CCNA1, CCNA3)
 - 🛡️ Basic knowledge in cybersecurity
 - 🎯 Goal: Work remotely and transition to the Canadian tech market
 
