@@ -126,6 +126,25 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "Done is better than perfect"
 → Feito é melhor que perfeito (Principalmente quando a gente não está bem)
 
+### Day 5
+- Reviewed Python fundamentals to reinforce core concepts
+- Practiced Linux commands and permissions:
+  - Navigated directories and validated paths (pwd, cd, ls -l)
+  - Practiced file permission changes using chmod
+  - Understood the relationship between user, file ownership and permissions
+- Watched technical content in English
+- Praticed French using Duolingo
+- Maintained consistency despite a lighter study day
+
+#### 💡 Key Takeaways
+- Linux requires awareness of context (user + directory + permissions)
+- Revisiting fundamentals strengthens long-term retention
+- Small daily efforts build long-term discipline and skill
+
+#### 💬 Daily phrase
+- "Every single drop of water fills a pit"
+→ Cada gota de água enche um poço! Step by step o progresso vem
+
 *(Updating daily or weekly)*
 
 ---
