@@ -145,6 +145,42 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "Every single drop of water fills a pit"
 → Cada gota de água enche um poço! Step by step o progresso vem
 
+### Day 6
+
+* Practiced Linux user and permission management:
+
+  * Created and managed multiple users
+  * Explored the differences between incomplete and fully configured Linux users
+  * Worked with file ownership using `chown`
+  * Practiced permission management with `chmod`
+  * Moved directories between locations using `mv`
+  * Tested file access between different users
+  * Understood read, write and execute permissions in practice
+  * Learned how Linux shell environments and `.bashrc` work
+  * Explored hidden files using `ls -a`
+  * Fixed a user environment manually using `/etc/skel`
+* Continued reviewing Python fundamentals
+
+  * Reviewed variables and string formatting
+  * Practiced `f-strings`
+  * Learned numeric formatting with decimal precision (`:.2f`, `:.3f`)
+* Continued improving understanding of automation script structure
+* Attended university classes related to introductory AI concepts
+* Watched technical content in English
+* Maintained consistency across Linux, Python and academic studies
+
+#### 💡 Key Takeaways
+
+* Linux permissions become much easier when tested between real users
+* Understanding shell environments helps explain many “strange” terminal behaviors
+* Strong fundamentals in Python make automation cleaner and easier to maintain
+* Consistency across multiple areas compounds over time like small upgrades stacking in an RPG build
+
+#### 💬 Daily phrase
+
+* “Consistency beats intensity”
+  → Consistência vence intensidade
+
 *(Updating daily or weekly)*
 
 ---
