@@ -181,6 +181,39 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 * “Consistency beats intensity”
   → Consistência vence intensidade
 
+  ### Day 7
+
+* Practiced Linux process and system commands:
+  * Explored running processes using `ps`, `ps aux` and `top`
+  * Learned how to identify the current user with `whoami`
+  * Checked user information using `id`
+  * Created and executed shell scripts using `echo`
+  * Applied execution permissions with `chmod 755`
+  * Improved understanding of Linux file permissions and execution flow
+* Continued studying Python fundamentals
+  * Reviewed variables and string formatting
+  * Practiced `f-strings`
+  * Learned numeric formatting with decimal precision (`:.2f`, `:.3f`)
+  * Studied conditional structures (`if`, `elif`, `else`)
+  * Completed beginner exercises focused on logic and sequential structures
+* Attended university classes related to introductory AI concepts
+* Watched technical content in English
+* Continued practicing English through writing and technical exposure
+* Maintained study consistency throughout the day, even during work hours
+
+#### 💡 Key Takeaways
+
+* Conditional logic is one of the foundations of automation and programming
+* Linux permissions only become intuitive when tested in real scenarios
+* Simple exercises strengthen logical thinking more than they seem at first
+* Small consistent sessions during the day prevent loss of momentum
+
+#### 💬 Daily phrase
+
+* “Works on my machine.”
+  → Today my VS Code only worked when I used my tunnel connection to my home computer. My work computer at the barracks just didn’t want to run it locally. 😄
+
+
 *(Updating daily or weekly)*
 
 ---
