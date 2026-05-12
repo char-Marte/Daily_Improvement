@@ -213,6 +213,30 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 * “Works on my machine.”
   → Today my VS Code only worked when I used my tunnel connection to my home computer. My work computer at the barracks just didn’t want to run it locally. 😄
 
+  ### Day 8
+- Attended university activities and completed pending assessments
+- Developed and refined a 2D platform game project using Pygame
+  - Implemented player movement, jumping and climbing mechanics
+  - Worked with collision detection and enemy interaction
+  - Organized the game using classes and game states
+  - Added sound effects and sprite asset integration
+  - Structured the main game loop and gameplay flow
+  - Improved project documentation with a complete README
+  - Created a controls and technical requirements file
+- Continued practicing Python through real project development
+- Maintained contact with English through technical writing and documentation
+- Managed to stay productive despite a mentally exhausting work day
+
+#### 💡 Key Takeaways
+- Real projects teach much more than isolated exercises
+- Even small academic projects can become valuable portfolio material
+- Structuring code with states and classes makes projects easier to scale
+- Progress is not always linear, but consistency keeps the journey alive
+
+#### 💬 Daily phrase
+- "I did what I could with the time and energy I had."
+→ Fiz o que pude com o tempo e energia que eu tinha.
+
 
 *(Updating daily or weekly)*
 
