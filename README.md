@@ -181,7 +181,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 * “Consistency beats intensity”
   → Consistência vence intensidade
 
-  ### Day 7
+### Day 7
 
 * Practiced Linux process and system commands:
   * Explored running processes using `ps`, `ps aux` and `top`
@@ -213,7 +213,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 * “Works on my machine.”
   → Today my VS Code only worked when I used my tunnel connection to my home computer. My work computer at the barracks just didn’t want to run it locally. 😄
 
-  ### Day 8
+### Day 8
 - Attended university activities and completed pending assessments
 - Developed and refined a 2D platform game project using Pygame
   - Implemented player movement, jumping and climbing mechanics
@@ -236,6 +236,34 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 #### 💬 Daily phrase
 - "I did what I could with the time and energy I had."
 → Fiz o que pude com o tempo e energia que eu tinha.
+
+### Day 9 
+- Practiced Linux commands and shell behavior:
+  - Used `whoami` and `pwd` to gather system information
+  - Learned the difference between writing text and executing commands inside `echo`
+  - Practiced output redirection using `>` and `>>`
+  - Created a simple system report file using terminal commands
+  - Improved understanding of shell command substitution with `$(command)`
+- Continued studying Python fundamentals:
+  - Practiced `if`, `elif` and `else`
+  - Worked with comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+  - Studied logical operators (`and` , `or`)
+  - Solved exercises focused on conditional logic and decision making
+- Continued practicing English through technical writing and conversations
+- Practiced French using Duolingo
+- Watched videos in English with English subtitles
+- Maintained consistency and balance between technical studies and language learning
+
+#### 💡 Key Takeaways
+- Linux shell distinguishes between plain text and command execution
+- Conditional logic is the foundation of automation and system behavior
+- Small daily practice sessions create long-term progress
+- Language immersion becomes more effective when integrated naturally into daily life
+
+#### 💬 Daily phrase
+- "Little by little, I'm building my future."
+→ Aos poucos, estou construindo meu futuro.
+
 
 
 *(Updating daily or weekly)*
