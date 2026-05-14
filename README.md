@@ -264,7 +264,37 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "Little by little, I'm building my future."
 → Aos poucos, estou construindo meu futuro.
 
+### Day 10
+- Deepened Linux studies with a stronger focus on system behavior and shell usage:
+  - Practiced file permissions using `chmod`
+  - Reviewed permission structures like `rwxr-xr-x`
+  - Studied user and group identification with `id` and `groups`
+  - Worked with pipes (`|`) and command chaining
+  - Practiced file searches and filtering using `grep`
+  - Explored process visualization with `ps aux`
+  - Used `top` for real-time system monitoring
+  - Created and executed shell scripts using `.sh`
+  - Practiced command substitution with `$(command)`
+  - Redirected script outputs into `.log` files
+- Continued studying Python fundamentals:
+  - Learned more about string manipulation and formatting
+  - Practiced `.format()` and f-strings
+  - Worked with string methods such as `.strip()`, `.replace()`, `.split()`, `.upper()` and `.lower()`
+  - Practiced numeric formatting for reports and automation outputs
+- Watched a technical video in English about `grep`
+  - Managed to understand the content comfortably
+  - Improved technical listening comprehension
+- Continued integrating English naturally into technical studies
 
+####💡 Key Takeaways
+- Linux becomes much more powerful when commands are combined together
+- Understanding permissions and shell behavior is essential for system administration
+- String manipulation is one of the most important skills in automation and scripting
+- Technical English becomes easier when learned through real-world context
+
+#### 💬 Daily phrase
+- "At first, some things looked confusing, but then they clicked."
+→ No começo parecia confuso, mas depois fez sentido.
 
 *(Updating daily or weekly)*
 
