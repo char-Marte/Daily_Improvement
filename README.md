@@ -296,6 +296,61 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "At first, some things looked confusing, but then they clicked."
 → No começo parecia confuso, mas depois fez sentido.
 
+### Day 11
+- Had a physically demanding training session:
+  - Completed 6 rounds of 600-meter sprints in 2 minutes and 30 seconds each
+- Experienced strong mental and physical fatigue after training
+- Prioritized recovery and energy management instead of forcing heavy technical studies
+- Listened to podcasts about the DevOps market and technology careers
+- Continued practicing English through technical listening
+- Practiced French using Duolingo
+- Reflected on the importance of balancing discipline, recovery and long-term consistency
+
+#### 💡 Key Takeaways
+- Recovery is an important part of long-term performance
+- Technical podcasts are a great way to stay connected to the field even during low-energy days
+- Consistency is not about perfection, but about returning and staying connected to the process
+- Exposure to technical English through real-world topics improves listening comprehension naturally
+
+#### 💬 Daily phrase
+- "Rest is also part of the process."
+→ Descanso também faz parte do processo.
+
+### Day 12
+- Focused almost entirely on completing the Cyberwarfare Labs Web-RTA certification
+- Spent most of the day solving practical web security challenges and working through offensive security scenarios
+- Maintained focus and persistence despite mental fatigue from long practical assessments
+- Continued practicing English through technical podcasts
+- Practiced French using Duolingo
+
+#### 💡 Key Takeaways
+- Practical cybersecurity labs require patience, endurance and analytical thinking
+- Exposure to real-world scenarios improves technical reasoning even when the learning curve feels steep
+- Consistency can still exist during exhausting days through smaller habits like podcasts and language practice
+
+#### 💬 Daily phrase
+- "Progress is still progress, even on exhausting days."
+→ Progresso ainda é progresso, mesmo em dias cansativos.
+
+### Day 13
+- Continued working on Cyberwarfare Labs certifications:
+  - Web-RTA
+  - API-RTA
+- Spent the day immersed in practical security exercises, testing workflows and troubleshooting different scenarios
+- Strengthened exposure to offensive security concepts and technical problem-solving
+- Continued listening to podcasts in English related to technology and cybersecurity
+- Practiced French using Duolingo
+- Prioritized endurance and continuity over intense multitasking due to mental fatigue
+
+#### 💡 Key Takeaways
+- Long technical labs demand energy management as much as technical knowledge
+- Exposure to cybersecurity workflows helps develop familiarity even without mastering every concept immediately
+- Maintaining small habits during difficult days protects long-term consistency
+
+#### 💬 Daily phrase
+- "I’m here to learn, not to know everything."
+→ Estou aqui para aprender, não para saber tudo.
+
 *(Updating daily or weekly)*
 
 ---
