@@ -351,6 +351,29 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "I’m here to learn, not to know everything."
 → Estou aqui para aprender, não para saber tudo.
 
+### Day 15
+- Returned to the career study routine after a period focused on English certification, work, college and personal responsibilities
+- Reconnected with the Linux virtual machine and resumed the technical study environment
+- Reviewed basic terminal usage and corrected a command mistake:
+  - Used `ls`
+  - Reviewed the difference between `ls -f`, `ls -l` and `ls -la`
+- Restarted the DevOps study path with a light Linux-focused session
+- Adjusted the study strategy:
+  - Reduced active English study for now
+  - Kept English as passive immersion during the day
+  - Prioritized career, work, college and postgraduate studies
+- Practiced consistency even with limited time and a difficult day
+
+#### 💡 Key Takeaways
+- Returning to the routine is more important than having a perfect study session
+- Small technical reviews help rebuild rhythm after a break
+- Linux fundamentals are part of the foundation for DevOps, automation and cybersecurity
+- Adjusting priorities is not giving up, it is managing energy and focus
+
+#### 💬 Daily phrase
+- "Small progress still counts."
+→ Pequeno progresso ainda conta.
+
 *(Updating daily or weekly)*
 
 ---
