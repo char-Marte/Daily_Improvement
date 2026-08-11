@@ -374,6 +374,95 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "Small progress still counts."
 → Pequeno progresso ainda conta.
 
+### Day 16
+- Started the new career-focused study phase with a practical DevOps/Linux project
+- Created the first version of the LogOps Lab project
+- Built a sample log file called `app.log`
+- Practiced Linux log analysis using:
+  - `cat`
+  - `grep`
+  - `wc -l`
+  - pipes with `|`
+- Created and executed a Bash script called `sys_report.sh`
+- Fixed a command substitution mistake:
+  - corrected `#(pwd)` to `$(pwd)`
+- Reviewed script execution concepts:
+  - `bash sys_report.sh`
+  - `./sys_report.sh`
+  - `chmod +x`
+  - shebang with `#!/bin/bash`
+- Created a Python script called `log_analyzer.py`
+- Used Python to read a log file and count:
+  - `INFO`
+  - `WARNING`
+  - `ERROR`
+- Generated a text report with Python using `report.txt`
+- Connected VS Code on Windows to the Linux VM using Remote SSH
+- Used VS Code as the main editor for larger project files
+- Created a technical `README.md` to document the project
+- Documented:
+  - project overview
+  - project structure
+  - file descriptions
+  - how to run the Bash script
+  - how to run the Python script
+  - commands practiced
+  - Python concepts practiced
+  - lessons learned
+  - future improvements
+- Initialized a Git repository
+- Created the first commit:
+  - `Create LogOps Lab v0.1`
+- Added the README documentation in a second commit
+- Configured the GitHub remote repository
+- Solved SSH/GitHub issues and successfully pushed the project to GitHub
+
+#### 💡 Key Takeaways
+- Linux commands are useful for quick log filtering and troubleshooting
+- Bash scripts can automate repeated terminal tasks
+- Python can organize logic and generate structured reports
+- `chmod +x` allows a script to be executed directly
+- `$(command)` runs a command and inserts its result into the script output
+- VS Code with Remote SSH creates a more professional workflow for editing files inside a Linux VM
+- A README transforms a simple exercise into a documented portfolio project
+- Git and GitHub turn local practice into visible portfolio evidence
+
+#### 💬 Daily phrase
+- "I turned practice into a project."
+→ Transformei prática em projeto.
+
+### Day 17
+- Continued the LogOps Lab project after skipping the weekend
+- Improved the Python log analyzer to make it more flexible
+- Updated `log_analyzer.py` to accept a custom log file as a command-line argument
+- Practiced using `sys.argv` to read command-line input
+- Added file validation using `os.path.exists`
+- Kept `app.log` as the default file when no argument is provided
+- Created and tested a custom log file called `test.log`
+- Tested the script with:
+  - the default log file
+  - a custom log file
+  - a missing file
+- Improved error handling with a clear message when the file does not exist
+- Updated the project documentation in `README.md`
+- Versioned and pushed the updated project to GitHub
+- Took a first look at the Compilers course material
+- Organized the Compilers summary for a deeper review on the next study day
+- Kept college studies connected to the broader Computer Science foundation
+
+#### 💡 Key Takeaways
+- A script becomes more useful when it can receive input from the command line
+- `sys.argv` allows a Python program to behave more like a real command-line tool
+- Validating files before reading them prevents avoidable errors
+- Good automation should handle failure clearly, not just work in perfect conditions
+- Improving an existing project is an important part of building a real portfolio
+- Technical documentation should evolve together with the code
+- College subjects like Compilers help strengthen the theoretical foundation behind programming languages and computer systems
+
+#### 💬 Daily phrase
+- "I improved what I built."
+→ Melhorei o que eu construí.
+
 *(Updating daily or weekly)*
 
 ---
