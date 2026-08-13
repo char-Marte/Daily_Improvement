@@ -463,6 +463,30 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "I improved what I built."
 → Melhorei o que eu construí.
 
+### Day 18
+- Continued improving the LogOps Lab project
+- Updated the Python log analyzer to generate a Markdown report
+- Replaced the previous text report idea with a more GitHub-friendly `report.md`
+- Tested the updated analyzer after the changes
+- Updated the project documentation in `README.md`
+- Versioned and pushed the new project changes to GitHub
+- Practiced maintaining a project through small, incremental improvements
+- Reviewed college material from the Compilers course
+- Copied the Compilers summary into the notebook for deeper review later
+- Balanced career studies and college responsibilities on the same day
+
+#### 💡 Key Takeaways
+- Markdown reports make project outputs easier to read and present on GitHub
+- Improving an existing project is a strong way to build portfolio evidence
+- Documentation should evolve together with the code
+- Small commits help show consistent progress over time
+- College subjects like Compilers strengthen the theoretical foundation behind programming languages and computer systems
+- Keeping the notebook updated helps organize academic learning without losing focus on the career path
+
+#### 💬 Daily phrase
+- "Documentation makes my work visible."
+→ Documentação torna meu trabalho visível.
+
 *(Updating daily or weekly)*
 
 ---
@@ -470,11 +494,11 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 ## 📈 Progress Roadmap
 
 - [x] Linux fundamentals
-- [ ] File permissions and users
-- [ ] Process and system management
+- [x] File permissions and users
+- [x] Process and system management
 - [ ] Networking in Linux
 - [ ] Shell scripting
-- [ ] Git & version control
+- [x] Git & version control
 - [ ] Docker
 - [ ] CI/CD pipelines
 - [ ] Cloud (AWS)
