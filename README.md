@@ -487,6 +487,90 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "Documentation makes my work visible."
 → Documentação torna meu trabalho visível.
 
+### Day 19
+
+* Continued improving the LogOps Lab project
+* Upgraded `log_analyzer.py` from manual argument handling with `sys.argv` to a more professional command-line interface using `argparse`
+* Added a positional argument for the log file:
+
+  * default file: `app.log`
+  * custom file support, such as `test.log`
+* Added an optional output argument:
+
+  * `-o`
+  * `--output`
+* Practiced generating custom Markdown reports with different output filenames
+* Tested the script using:
+
+  * the default log file
+  * a custom log file
+  * a custom output report
+  * the `--help` option
+* Reviewed how `argparse.ArgumentParser` works
+* Understood how `parser.add_argument()` defines command-line inputs
+* Learned how `args.logfile` and `args.output` store values provided by the user
+* Improved the project documentation in `README.md`
+* Versioned and pushed the updated project to GitHub
+
+#### 💡 Key Takeaways
+
+* `argparse` helps transform a Python script into a real command-line tool
+* Positional arguments are useful for required or main inputs, such as a log file
+* Optional arguments like `-o` and `--output` make scripts more flexible
+* The `--help` option improves usability and documentation directly in the terminal
+* A good script should accept input, process it clearly and generate useful output
+* Small improvements make a project more professional over time
+
+#### 💬 Daily phrase
+
+* "My script is becoming a tool."
+  → Meu script está virando uma ferramenta.
+
+### Day 20
+
+* Continued improving the LogOps Lab project
+* Added a severity filter to the Python log analyzer
+* Created a new command-line option:
+
+  * `--level`
+* Configured the analyzer to support the following log levels:
+
+  * `INFO`
+  * `WARNING`
+  * `ERROR`
+  * `ALL`
+* Used `choices` in `argparse` to limit valid filter options
+* Updated the log analysis logic to store filtered events in a list
+* Practiced using `.strip()` to clean log lines before processing them
+* Tested the analyzer with different severity filters
+* Generated specific Markdown reports for filtered log events
+* Tested commands such as:
+
+  * `python3 log_analyzer.py app.log --level ERROR`
+  * `python3 log_analyzer.py test.log --level WARNING -o warning_report.md`
+  * `python3 log_analyzer.py app.log --level ALL`
+* Improved the generated Markdown report by including filtered events
+* Updated the `README.md` with the new filtering feature
+* Versioned and pushed the updated project to GitHub
+* Continued college studies with Back-End Web Development classes
+* Connected college content with APIs, server-side development and future DevOps/cloud projects
+
+#### 💡 Key Takeaways
+
+* Filtering by severity makes the log analyzer more useful and closer to a real troubleshooting tool
+* `argparse` can restrict valid inputs using `choices`
+* Lists are useful for storing filtered data before displaying or exporting it
+* Markdown reports make technical outputs easier to read and present on GitHub
+* Backend development connects strongly with APIs, deployment, cloud infrastructure and DevOps workflows
+* Improving the same project in small versions helps build consistent portfolio evidence
+
+#### 💬 Daily phrase
+
+* "I added a useful feature."
+  → Adicionei uma funcionalidade útil.
+
+
+
 *(Updating daily or weekly)*
 
 ---
