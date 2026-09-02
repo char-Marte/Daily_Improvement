@@ -487,6 +487,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 - "Documentation makes my work visible."
 → Documentação torna meu trabalho visível.
 
+
 ### Day 19
 
 * Continued improving the LogOps Lab project
@@ -525,6 +526,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 * "My script is becoming a tool."
   → Meu script está virando uma ferramenta.
+  
 
 ### Day 20
 
@@ -568,7 +570,56 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 * "I added a useful feature."
   → Adicionei uma funcionalidade útil.
+  
 
+### Day 21
+- Continued improving the LogOps Lab project
+- Added JSON report output to the Python log analyzer
+- Practiced using the Python `json` module
+- Used `json.dump()` to generate structured data from the log analysis result
+- Generated and validated a `report.json` file
+- Reviewed how structured data can be useful for APIs, automation, integrations, backend systems and DevOps workflows
+- Tested the analyzer output with log data containing:
+  - `INFO`
+  - `WARNING`
+  - `ERROR`
+- Identified and understood a small formatting issue caused by the JSON file ending without a final newline
+- Adjusted the JSON report generation to improve terminal readability
+- Took a look at the college extension activity
+- Worked on improving my resume
+- Started an external task related to feeding a store marketplace using an ERP system
+- Connected this marketplace/ERP activity with real-world operational workflows, data organization and possible future automation opportunities
+
+#### 💡 Key Takeaways
+- JSON is an important format for APIs, automation, backend development and DevOps tools
+- Structured data makes information easier to process, integrate and reuse
+- Small improvements in code quality, such as adding a final newline, help create cleaner outputs
+- Resume improvement is part of career preparation, not a separate task
+- ERP and marketplace workflows can become valuable practical experience when documented properly
+- Real-world operational tasks can reveal automation opportunities for future projects
+
+#### 💬 Daily phrase
+- "Structured data makes automation easier."
+→ Dados estruturados tornam a automação mais fácil.
+
+### Day 22
+- Focused the day on an external work activity related to feeding a store marketplace using an ERP system
+- Worked with product information and marketplace data organization
+- Observed a real-world workflow involving ERP data and online product publication
+- Connected the activity with practical business operations, data consistency and possible automation opportunities
+- Reflected on how manual marketplace tasks could become future Python automation projects
+- Prioritized real-world work experience over technical lab practice due to limited time
+
+#### 💡 Key Takeaways
+- Real-world operational tasks can reveal useful automation opportunities
+- ERP and marketplace workflows are connected to data organization, systems integration and business processes
+- Not every career-relevant study session needs to be a lab or course
+- Understanding business workflows helps build better technical solutions
+- Sensitive work data should never be exposed in public repositories
+
+#### 💬 Daily phrase
+- "Real work can become real portfolio."
+→ Trabalho real pode virar portfólio real.
 
 
 *(Updating daily or weekly)*
@@ -591,7 +642,7 @@ Here, I share my daily learning, hands-on practice, and projects as I build real
 
 ## 🤝 Connect
 
-*(I'll add LinkedIn here later)*
+[LinkedIn](https://www.linkedin.com/in/gabriel-marciano-it/)
 
 ---
 
