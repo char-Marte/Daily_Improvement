@@ -801,6 +801,37 @@ Main features:
 - "I organized my tool like a real project."
 → Organizei minha ferramenta como um projeto real.
 
+### Day 25
+
+- Continued improving the LogOps Lab project
+- Added a new automation-focused option: `--fail-on-error`
+- Practiced using exit codes in Python scripts
+- Used `sys.exit(1)` to indicate failure when `ERROR` events are found
+- Used `sys.exit(0)` to indicate successful execution
+- Tested the script with a log file containing `ERROR` events
+- Verified that the script exits with code `1` when errors are found
+- Created a healthy log file without `ERROR` events
+- Verified that the script exits with code `0` when no errors are found
+- Connected exit codes with automation, CI/CD pipelines and monitoring workflows
+- Cleaned Python cache files such as `__pycache__` and `.pyc`
+- Updated `.gitignore` to ignore Python cache files
+- Committed and pushed the updated project to GitHub
+
+#### 💡 Key Takeaways
+
+- Exit codes allow scripts to communicate success or failure to other tools
+- Code `0` usually means success
+- Code `1` usually means failure or a problem detected
+- `--fail-on-error` makes the log analyzer more useful for automation
+- CI/CD pipelines can use exit codes to decide whether a step passed or failed
+- Cleaning cache files keeps the repository more professional
+- `.gitignore` helps prevent unnecessary files from being versioned
+
+#### 💬 Daily phrase
+
+- "My script can now signal failure automatically."
+→ Meu script agora consegue sinalizar falha automaticamente.
+
 ---
 
 *(Updating daily or weekly)*
