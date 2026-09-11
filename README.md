@@ -832,6 +832,31 @@ Main features:
 - "My script can now signal failure automatically."
 → Meu script agora consegue sinalizar falha automaticamente.
 
+### Day 26
+
+- Had a busy day with academic and work responsibilities
+- Completed two postgraduate exams
+- Worked on the ERP-marketplace activity
+- Continued gaining practical experience with product information, marketplace workflows and data organization
+- Prepared for the next phase of the college extension activity with guidance and planning support
+- Reviewed the next steps needed to continue the extension project
+- Balanced postgraduate studies, real-world work activity and college responsibilities in the same day
+- Maintained consistency even without a heavy technical lab session
+
+#### 💡 Key Takeaways
+
+- Productive days are not always focused on coding or labs
+- Postgraduate exams are part of the long-term academic and professional path
+- ERP and marketplace workflows can reveal future automation opportunities
+- Extension activities help connect academic learning with practical and community-oriented work
+- Planning the next phase of a project is also part of execution
+- Consistency means adapting the routine to the reality of the day
+
+#### 💬 Daily phrase
+
+- "I kept moving even on a busy day."
+→ Continuei avançando mesmo em um dia corrido.
+
 ---
 
 *(Updating daily or weekly)*
