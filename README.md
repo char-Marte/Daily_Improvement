@@ -857,6 +857,38 @@ Main features:
 - "I kept moving even on a busy day."
 → Continuei avançando mesmo em um dia corrido.
 
+### Day 27
+
+- Continued improving the LogOps Lab project
+- Created a local check script called `run_checks.sh`
+- Simulated a simple CI workflow locally
+- Added Python syntax validation using `py_compile`
+- Tested the analyzer with a healthy log file
+- Verified that the healthy log returns exit code `0`
+- Tested the analyzer with a log file containing `ERROR` events
+- Verified that the error log returns exit code `1`
+- Practiced checking exit codes with `echo $?`
+- Improved timestamped report filenames to avoid overwriting reports generated in the same second
+- Created a GitHub Actions workflow for the project
+- Configured the workflow to run local checks automatically on GitHub
+- Pushed the workflow to the repository
+- Confirmed that GitHub Actions passed successfully with a green check
+
+#### 💡 Key Takeaways
+
+- Local checks help validate a project before pushing changes
+- Exit codes are essential for automation and CI/CD workflows
+- A test can pass even when a command intentionally fails, as long as the failure is expected
+- GitHub Actions can automatically verify the project after each push
+- CI/CD is not only about deployment, but also about confidence, validation and repeatability
+- Improving filenames with more precise timestamps prevents accidental overwrites
+- A green pipeline is evidence that the project works outside the local machine
+
+#### 💬 Daily phrase
+
+- "My project now has automated checks."
+→ Meu projeto agora tem verificações automatizadas.
+
 ---
 
 *(Updating daily or weekly)*
