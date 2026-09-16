@@ -889,6 +889,65 @@ Main features:
 - "My project now has automated checks."
 → Meu projeto agora tem verificações automatizadas.
 
+### Day 28
+
+- Attended introductory Cloud Computing classes at college
+- Reviewed fundamental cloud concepts and connected them with the DevOps learning path
+- Installed Docker Engine on the Linux VM using the official Docker repository
+- Verified the Docker installation and service
+- Ran the `hello-world` container successfully
+- Configured Docker usage on the VM
+- Started containerizing the LogOps Lab project
+- Created the first `Dockerfile` using `python:3.13-slim`
+- Created a `.dockerignore` file to keep unnecessary files out of the Docker build context
+- Built the first LogOps Docker image:
+  - `logops:v0.1`
+- Practiced the difference between:
+  - Dockerfile
+  - Image
+  - Container
+- Ran `log_analyzer.py` successfully inside a Docker container
+- Used `--rm` to automatically remove disposable containers
+- Practiced bind mounts to persist generated reports outside the container
+- Connected the host `reports/` directory with `/app/reports` inside the container
+- Tested the container with both healthy and error log scenarios
+- Practiced container lifecycle commands:
+  - `docker build`
+  - `docker run`
+  - `docker image ls`
+  - `docker images`
+  - `docker ps`
+  - `docker ps -a`
+  - `docker logs`
+  - `docker inspect`
+  - `docker rm`
+- Learned how to inspect the output of a stopped container using `docker logs`
+- Observed the meaning of `Exited (0)` as a successful container execution
+- Learned that files created only inside a disposable container disappear when the container is removed
+- Updated the LogOps Lab documentation with Docker usage and container concepts
+- Reorganized and expanded the project README
+- Promoted LogOps Lab documentation to **v1.0**
+- Consolidated the project as a small DevOps-focused portfolio project
+
+#### 💡 Key Takeaways
+
+- A Dockerfile is the recipe used to build an image
+- A Docker image is the packaged application environment
+- A container is a running or stopped instance of an image
+- Containers are designed to be disposable
+- Bind mounts allow important data to persist outside a container
+- `docker logs` can be used to inspect application output even after a container stops
+- Exit code `0` indicates that the containerized process completed successfully
+- `.dockerignore` helps create cleaner and more efficient Docker build contexts
+- Containerization makes an application more portable and reproducible
+- Docker creates a bridge between application development, CI/CD and future cloud deployments
+- Cloud concepts become easier to understand when connected to practical tools and projects
+
+#### 💬 Daily phrase
+
+- "My application now runs inside a container."
+→ Minha aplicação agora roda dentro de um container.
+
 ---
 
 *(Updating daily or weekly)*
